@@ -101,12 +101,15 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/SrujanKindikeri/SrujanKindikeri/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
+## 📈 Contribution Graph
+
+[![Srujan Kumar Reddy's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SrujanKindikeri&theme=github-dark)](https://github.com/SrujanKindikeri)
 
 # 🌐 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/SrujanKindikeri)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/srujankindiekri)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:kindikerisr@gmail.com)
 
 ---
 
