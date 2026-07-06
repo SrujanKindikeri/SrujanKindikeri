@@ -1,14 +1,12 @@
 <div align="center">
 
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub!;Data+Science+Student;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Python+Developer;Always+Learning+New+Things" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Srujan%20Kumar%20Reddy&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
-</div>
+<br><br>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub!;Data+Science+Student;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Python+Developer;Always+Learning+New+Things"/>
+
+</div>
 ---
 
 # 🚀 About Me
