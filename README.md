@@ -42,3 +42,10 @@
 
 - LinkedIn: https://linkedin.com/in/YOUR-LINK
 - Email: YOUR_EMAIL
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=srujanredy01&show_icons=true&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srujanredy01&layout=compact&theme=tokyonight)
+
