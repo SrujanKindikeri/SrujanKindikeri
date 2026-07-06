@@ -1,8 +1,5 @@
 <div align="center">
 
-# 👋 Hi, I'm Srujan Kumar Reddy
-
-### Data Science • Data Engineering • AI • Machine Learning • Full Stack Developer
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub!;Data+Science+Student;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Python+Developer;Always+Learning+New+Things" />
@@ -15,6 +12,9 @@
 ---
 
 # 🚀 About Me
+# 👋 Hi, I'm Srujan Kumar Reddy
+
+### Data Science • Data Engineering • AI • Machine Learning • Full Stack Developer
 
 🎓 **B.Tech CSE (Data Science & Data Engineering)**  
 🏫 **Lovely Professional University (2023–2027)**
