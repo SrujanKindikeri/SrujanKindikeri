@@ -43,4 +43,10 @@
 - LinkedIn: https://linkedin.com/in/YOUR-LINK
 - Email: YOUR_EMAIL
 
-https://github-readme-stats.vercel.app/api?username=SrujanKindikeri&show_icons=true
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SrujanKindikeri&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SrujanKindikeri&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SrujanKindikeri&theme=tokyonight)
