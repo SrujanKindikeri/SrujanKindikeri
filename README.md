@@ -128,15 +128,16 @@ Online grocery delivery platform developed using Django.
 
 ---
 
-# 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
-> **Note:** The public GitHub stats service may occasionally be unavailable. If the cards don't load, it's usually a temporary issue with the service, not your README.
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrujanKindikeri&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrujanKindikeri&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SrujanKindikeri&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SrujanKindikeri&layout=compact&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SrujanKindikeri&theme=github-dark)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SrujanKindikeri&theme=tokyonight"/>
+</p>
 
 ---
 
@@ -167,6 +168,7 @@ def life():
 
 life()
 ```
+
 
 ---
 
