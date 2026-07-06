@@ -49,6 +49,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SrujanKindikeri&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SrujanKindikeri&theme=tokyonight)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Data+Science+Student;Machine+Learning+Enthusiast;Python+Developer;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+![GitHub Streak](https://streak-stats.demolab.com?user=SrujanKindikeri&theme=tokyonight)
